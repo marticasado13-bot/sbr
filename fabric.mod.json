@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "steelballrun",
+  "version": "${version}",
+  "name": "Steel Spin Race",
+  "description": "Spin steel balls, boost your horse and awaken your own Stand.",
+  "authors": ["Fan"],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/steelballrun"
+  },
+  "license": "MIT",
+  "icon": "assets/steelballrun/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.steelballrun.SteelBallRun"],
+    "client": ["com.steelballrun.SteelBallRunClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

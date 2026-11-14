@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["I I", "IGI", "III"],
+  "key": { "I": {"item": "minecraft:iron_ingot"}, "G": {"item": "minecraft:gold_nugget"} },
+  "result": { "item": "steelballrun:race_horseshoe", "count": 1 }
+}

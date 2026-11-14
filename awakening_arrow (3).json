@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:arrow" },
+    { "item": "minecraft:diamond" },
+    { "item": "minecraft:amethyst_shard" }
+  ],
+  "result": { "item": "steelballrun:awakening_arrow", "count": 1 }
+}
